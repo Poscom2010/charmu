@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T18:30:17.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="EEp5tWuLdXqIywVYe0g_" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-27T18:43:28.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="2IVcPTKaepn6D6Y11uk3" version="21.6.2" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,9 +156,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NDMb8ef-fpuuQvbElCih-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="10" width="860" height="860" as="geometry" />
-        </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-1" target="9xyq06DQURdeaemk9mPY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -179,26 +176,54 @@
         <mxCell id="9xyq06DQURdeaemk9mPY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-8" target="9xyq06DQURdeaemk9mPY-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9xyq06DQURdeaemk9mPY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-8" target="9xyq06DQURdeaemk9mPY-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="198" />
+              <mxPoint x="383" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-8" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;3. Data Quality Officers&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Verifies work for quality,note errors,verifies if data is captured correctly&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
           <mxGeometry x="320" y="52.5" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-8" target="9xyq06DQURdeaemk9mPY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9xyq06DQURdeaemk9mPY-13" value="PGTS,SAW,SW,MF,PNs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="9xyq06DQURdeaemk9mPY-13" value="PGTS,SAW,SW,MF,PNs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-35" y="150" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-14" target="9xyq06DQURdeaemk9mPY-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9xyq06DQURdeaemk9mPY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-14" target="9xyq06DQURdeaemk9mPY-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="310" />
+              <mxPoint x="441" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-14" value="&lt;div&gt;&lt;b&gt;5.M&amp;amp;E Coordinator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Provides technical support, support field teams&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="190" width="150" height="90" as="geometry" />
+          <mxGeometry x="490" y="200" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-15" target="9xyq06DQURdeaemk9mPY-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9xyq06DQURdeaemk9mPY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-15" target="9xyq06DQURdeaemk9mPY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9xyq06DQURdeaemk9mPY-15" value="&lt;div&gt;&lt;b&gt;4. Data Capturers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Captures collected data,note system errors,filing&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="120" height="70" as="geometry" />
+          <mxGeometry x="322.5" y="210" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9xyq06DQURdeaemk9mPY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xyq06DQURdeaemk9mPY-22" target="9xyq06DQURdeaemk9mPY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xyq06DQURdeaemk9mPY-22" value="&lt;div&gt;&lt;b&gt;6. M&amp;amp;E Officer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Analyze data, asses data quality, verify data, draft reports&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="334.38" width="121.25" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="9xyq06DQURdeaemk9mPY-23" value="&lt;div&gt;&lt;b&gt;7. Program Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Quality checks&lt;/div&gt;&lt;div&gt;Organize data&lt;/div&gt;&lt;div&gt;Write reports&lt;/div&gt;&lt;div&gt;Adjust plans&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
